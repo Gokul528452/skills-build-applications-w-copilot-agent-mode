@@ -1,0 +1,58 @@
+/* General styles */
+body {
+  background-color: #f0f8ff; /* Light blue background */
+  color: #333; /* Dark text color */
+  font-family: Arial, sans-serif;
+}
+
+/* Navigation menu */
+.navbar {
+  background-color: #007bff; /* Bootstrap primary color */
+}
+.navbar a {
+  color: #fff !important; /* White text for links */
+}
+.navbar a:hover {
+  color: #ffcc00 !important; /* Gold color on hover */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #0056b3; /* Dark blue for headings */
+}
+
+/* Tables */
+.table {
+  background-color: #ffffff; /* White background */
+  border: 1px solid #dee2e6; /* Light border */
+}
+.table th {
+  background-color: #007bff; /* Bootstrap primary color */
+  color: #fff; /* White text */
+}
+.table td {
+  background-color: #f8f9fa; /* Light gray background */
+}
+
+/* Buttons */
+.btn {
+  background-color: #28a745; /* Green button */
+  color: #fff; /* White text */
+}
+.btn:hover {
+  background-color: #218838; /* Darker green on hover */
+}
+
+/* Links */
+a {
+  color: #007bff; /* Bootstrap primary color */
+}
+a:hover {
+  color: #0056b3; /* Darker blue on hover */
+}
+
+/* Logo */
+.logo {
+  height: 50px;
+  margin-right: 10px;
+}
